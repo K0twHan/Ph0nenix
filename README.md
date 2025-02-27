@@ -1,4 +1,4 @@
-# Hi there, I'm K0twHan 👋
+<!-- # Hi there, I'm K0twHan 👋
 
 ## 🚀 About Me
 I'm a passionate **Software Developer** specializing in [Your Expertise, e.g., Blockchain, AI, Web Development]. I enjoy working on open-source projects and building innovative solutions.
@@ -46,3 +46,5 @@ I'm a passionate **Software Developer** specializing in [Your Expertise, e.g., B
 ---
 
 ⭐️ Inspired by awesome GitHub profiles!
+
+!-->
