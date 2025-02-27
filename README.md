@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm K0twHan 👋
 
 ## 🚀 About Me
 I'm a passionate **Software Developer** specializing in [Your Expertise, e.g., Blockchain, AI, Web Development]. I enjoy working on open-source projects and building innovative solutions.
@@ -33,8 +33,8 @@ I'm a passionate **Software Developer** specializing in [Your Expertise, e.g., B
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=K0twHan&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K0twHan&layout=compact&theme=radical)
 
 ---
 
